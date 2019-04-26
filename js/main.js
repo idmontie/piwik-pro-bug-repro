@@ -9,7 +9,7 @@ window.onload = function () {
   anchor.onclick = function (e) {
     e.preventDefault();
 
-    window.open('http://google.com', '_blank');
+    window.open('http://google.com', 'Google', 'left=1');
   }
 
   target.appendChild(anchor);
