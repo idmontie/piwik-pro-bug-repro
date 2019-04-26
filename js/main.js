@@ -4,6 +4,7 @@ window.onload = function () {
   var anchor = document.createElement('a');
   anchor.href = 'https://google.com';
   anchor.id = 'anchor-target';
+  anchor.innerText = 'Open Google in New Window';
 
   anchor.onclick = function (e) {
     e.preventDefault();
