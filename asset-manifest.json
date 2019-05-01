@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/piwik-pro-bug-repro/static/css/main.6369a0c3.chunk.css",
-    "main.js": "/piwik-pro-bug-repro/static/js/main.8680e44a.chunk.js",
-    "main.js.map": "/piwik-pro-bug-repro/static/js/main.8680e44a.chunk.js.map",
+    "main.js": "/piwik-pro-bug-repro/static/js/main.225cfa02.chunk.js",
+    "main.js.map": "/piwik-pro-bug-repro/static/js/main.225cfa02.chunk.js.map",
     "runtime~main.js": "/piwik-pro-bug-repro/static/js/runtime~main.d79dec4b.js",
     "runtime~main.js.map": "/piwik-pro-bug-repro/static/js/runtime~main.d79dec4b.js.map",
     "static/js/2.65aa1cca.chunk.js": "/piwik-pro-bug-repro/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/piwik-pro-bug-repro/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/piwik-pro-bug-repro/index.html",
-    "precache-manifest.79adb1d642275f12b4083e4e88ed248a.js": "/piwik-pro-bug-repro/precache-manifest.79adb1d642275f12b4083e4e88ed248a.js",
+    "precache-manifest.39a9f400ce8701ea27d6aadbd399152a.js": "/piwik-pro-bug-repro/precache-manifest.39a9f400ce8701ea27d6aadbd399152a.js",
     "service-worker.js": "/piwik-pro-bug-repro/service-worker.js",
     "static/css/main.6369a0c3.chunk.css.map": "/piwik-pro-bug-repro/static/css/main.6369a0c3.chunk.css.map"
   }
