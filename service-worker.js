@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/piwik-pro-bug-repro/precache-manifest.39a9f400ce8701ea27d6aadbd399152a.js"
+  "/piwik-pro-bug-repro/precache-manifest.80905a9e5146408d68699a293ec92bdf.js"
 );
 
 self.addEventListener('message', (event) => {
