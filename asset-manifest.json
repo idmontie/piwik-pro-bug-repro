@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6369a0c3.chunk.css",
-    "main.js": "/static/js/main.659a0549.chunk.js",
-    "main.js.map": "/static/js/main.659a0549.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.611f0a4cb4ddd229def6c8b2e748409f.js": "/precache-manifest.611f0a4cb4ddd229def6c8b2e748409f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6369a0c3.chunk.css.map": "/static/css/main.6369a0c3.chunk.css.map"
+    "main.css": "/piwik-pro-bug-repro/static/css/main.6369a0c3.chunk.css",
+    "main.js": "/piwik-pro-bug-repro/static/js/main.33c6200e.chunk.js",
+    "main.js.map": "/piwik-pro-bug-repro/static/js/main.33c6200e.chunk.js.map",
+    "runtime~main.js": "/piwik-pro-bug-repro/static/js/runtime~main.d79dec4b.js",
+    "runtime~main.js.map": "/piwik-pro-bug-repro/static/js/runtime~main.d79dec4b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/piwik-pro-bug-repro/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/piwik-pro-bug-repro/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/piwik-pro-bug-repro/index.html",
+    "precache-manifest.00e4015f5b63c0003293cda1c2a09f01.js": "/piwik-pro-bug-repro/precache-manifest.00e4015f5b63c0003293cda1c2a09f01.js",
+    "service-worker.js": "/piwik-pro-bug-repro/service-worker.js",
+    "static/css/main.6369a0c3.chunk.css.map": "/piwik-pro-bug-repro/static/css/main.6369a0c3.chunk.css.map"
   }
 }
