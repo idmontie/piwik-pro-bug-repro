@@ -9,24 +9,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piwik-pro-bug-repro/f1fb2460485504f1287ba2ed02e7b8bd.mp3"
   },
   {
-    "revision": "c41a0280df036c1eb402f88778ccb2c6",
+    "revision": "6edef357aaa8481bc83047f43ce9e906",
     "url": "/piwik-pro-bug-repro/index.html"
   },
   {
-    "revision": "3267d7b5efcce20e14b8",
-    "url": "/piwik-pro-bug-repro/static/css/2.39a8593a.chunk.css"
+    "revision": "881419d64efc5ea3d683",
+    "url": "/piwik-pro-bug-repro/static/css/2.12a94d34.chunk.css"
   },
   {
-    "revision": "86b1f9c205e50de939b5",
-    "url": "/piwik-pro-bug-repro/static/css/main.6369a0c3.chunk.css"
+    "revision": "32b7ef684efeb2bad3cc",
+    "url": "/piwik-pro-bug-repro/static/css/main.795991f2.chunk.css"
   },
   {
-    "revision": "3267d7b5efcce20e14b8",
-    "url": "/piwik-pro-bug-repro/static/js/2.d0de9263.chunk.js"
+    "revision": "881419d64efc5ea3d683",
+    "url": "/piwik-pro-bug-repro/static/js/2.65ef65d3.chunk.js"
   },
   {
-    "revision": "86b1f9c205e50de939b5",
-    "url": "/piwik-pro-bug-repro/static/js/main.4593ae0b.chunk.js"
+    "revision": "32b7ef684efeb2bad3cc",
+    "url": "/piwik-pro-bug-repro/static/js/main.0c36d516.chunk.js"
   },
   {
     "revision": "afc3c4caac1f82e135d6",
@@ -41,8 +41,104 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piwik-pro-bug-repro/static/media/click-clock.b441baaf.mp3"
   },
   {
+    "revision": "24a08391974424fd2554b442458cae5e",
+    "url": "/piwik-pro-bug-repro/static/media/custom-icons.24a08391.eot"
+  },
+  {
+    "revision": "362bef634ad7d5be2a8f8701f9156d83",
+    "url": "/piwik-pro-bug-repro/static/media/custom-icons.362bef63.svg"
+  },
+  {
+    "revision": "73dc038f26ec71040158cd9dcb13d3bf",
+    "url": "/piwik-pro-bug-repro/static/media/custom-icons.73dc038f.ttf"
+  },
+  {
+    "revision": "d7f33a87abbff82dfe6fd4c67b38d7fa",
+    "url": "/piwik-pro-bug-repro/static/media/custom-icons.d7f33a87.woff"
+  },
+  {
     "revision": "8eced15d8f08564879955c895a9e888a",
     "url": "/piwik-pro-bug-repro/static/media/favicon.8eced15d.ico"
+  },
+  {
+    "revision": "46dd77bfc2edd71e8a903b0686205a64",
+    "url": "/piwik-pro-bug-repro/static/media/lato-black-webfont.46dd77bf.svg"
+  },
+  {
+    "revision": "c805cc1be14427ff92a3e9750d70bd2f",
+    "url": "/piwik-pro-bug-repro/static/media/lato-black-webfont.c805cc1b.woff"
+  },
+  {
+    "revision": "7c69403b2c3531de23294ac729afd4c5",
+    "url": "/piwik-pro-bug-repro/static/media/lato-blackitalic-webfont.7c69403b.woff"
+  },
+  {
+    "revision": "fa95452c931b8be2891e82223ed9f180",
+    "url": "/piwik-pro-bug-repro/static/media/lato-blackitalic-webfont.fa95452c.svg"
+  },
+  {
+    "revision": "7f39c87d3e823593bf5d726649b95d63",
+    "url": "/piwik-pro-bug-repro/static/media/lato-bold-webfont.7f39c87d.svg"
+  },
+  {
+    "revision": "e41fa30816726992ae528a7791413c06",
+    "url": "/piwik-pro-bug-repro/static/media/lato-bold-webfont.e41fa308.woff"
+  },
+  {
+    "revision": "58684a28ed082407e98028f5157649fb",
+    "url": "/piwik-pro-bug-repro/static/media/lato-bolditalic-webfont.58684a28.svg"
+  },
+  {
+    "revision": "bb8e9dfd578f79a6ac9e514fc44de105",
+    "url": "/piwik-pro-bug-repro/static/media/lato-bolditalic-webfont.bb8e9dfd.woff"
+  },
+  {
+    "revision": "25a755d19914df35a46e59e3b15e9f9b",
+    "url": "/piwik-pro-bug-repro/static/media/lato-hairline-webfont.25a755d1.woff"
+  },
+  {
+    "revision": "7c515510e94ed4e47562a00a01bf8624",
+    "url": "/piwik-pro-bug-repro/static/media/lato-hairline-webfont.7c515510.svg"
+  },
+  {
+    "revision": "581db15ed943b8a20b606ae4b85242e3",
+    "url": "/piwik-pro-bug-repro/static/media/lato-hairlineitalic-webfont.581db15e.woff"
+  },
+  {
+    "revision": "7db3e42e40b8b7db1b976062f9464fad",
+    "url": "/piwik-pro-bug-repro/static/media/lato-hairlineitalic-webfont.7db3e42e.svg"
+  },
+  {
+    "revision": "1c94ec6d3a4473f28e22f8e324a9c2bb",
+    "url": "/piwik-pro-bug-repro/static/media/lato-italic-webfont.1c94ec6d.svg"
+  },
+  {
+    "revision": "ca015f0126d5b44c25d6c2e34f95c7fa",
+    "url": "/piwik-pro-bug-repro/static/media/lato-italic-webfont.ca015f01.woff"
+  },
+  {
+    "revision": "24d57a6661898e5cab1d205ce10d14db",
+    "url": "/piwik-pro-bug-repro/static/media/lato-light-webfont.24d57a66.svg"
+  },
+  {
+    "revision": "b44b4653455970c8dab2f33678edf2bc",
+    "url": "/piwik-pro-bug-repro/static/media/lato-light-webfont.b44b4653.woff"
+  },
+  {
+    "revision": "636b26fe9385cbd7b70e35a2171c0715",
+    "url": "/piwik-pro-bug-repro/static/media/lato-lightitalic-webfont.636b26fe.svg"
+  },
+  {
+    "revision": "927fd165de1f703fd2883ee092f66bb3",
+    "url": "/piwik-pro-bug-repro/static/media/lato-lightitalic-webfont.927fd165.woff"
+  },
+  {
+    "revision": "22a212650e6cc21e27da17b9d6861228",
+    "url": "/piwik-pro-bug-repro/static/media/lato-regular-webfont.22a21265.woff"
+  },
+  {
+    "revision": "4ed007280d03fc5b343f953181b3268c",
+    "url": "/piwik-pro-bug-repro/static/media/lato-regular-webfont.4ed00728.svg"
   },
   {
     "revision": "fd12dffef235dea6961ef57a7b27225f",
